@@ -49,3 +49,9 @@ https://github.com/Seeed-Studio/wiki-documents/blob/ccdf4ad4ed44606772a1a5ae96ee
 https://studio.edgeimpulse.com/studio/955053/impulse/1/deployment
 https://docs.edgeimpulse.com/hardware/boards/seeed-xiao-nrf52840-sense
 https://wiki.seeedstudio.com/XIAOEI/
+
+
+Next Add capability for:
+temperature 
+current https://www.seeedstudio.com/XIAO-2-Channel-Wi-Fi-AC-Energy-Meter-Bundle-Kit.html
+microphone https://colab.research.google.com/github/tensorflow/tflite-micro/blob/main/tensorflow/lite/micro/examples/micro_speech/train/train_micro_speech_model.ipynb
